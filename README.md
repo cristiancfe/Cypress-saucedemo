@@ -13,6 +13,9 @@
 - verificar nomes e preços dos produtos ordenados
 - 
   ![image](https://github.com/cristiancfe/Cypress-saucedemo/assets/32318124/6c5ef3d3-19ff-45d0-a249-3ca5c6f7a83e)
+
+  ![image](https://github.com/cristiancfe/Cypress-saucedemo/assets/32318124/5a15fbb5-2e63-4442-9023-67326de43f38)
+
  
 
 
