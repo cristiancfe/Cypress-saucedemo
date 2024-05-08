@@ -11,6 +11,7 @@
 ### Cenários de Testes
 - Ordenar produtos do menor para o maior valor
 - verificar nomes e preços dos produtos ordenados
+- 
   ![image](https://github.com/cristiancfe/Cypress-saucedemo/assets/32318124/6c5ef3d3-19ff-45d0-a249-3ca5c6f7a83e)
  
 
