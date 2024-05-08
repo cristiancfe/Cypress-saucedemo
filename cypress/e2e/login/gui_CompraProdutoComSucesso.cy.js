@@ -10,9 +10,8 @@ describe('Teste E2E Realizando a compra de produto com sucesso', () => {
 
 		// Ordenação de produtos do menor para o maior valor
 		cy.get('.product_sort_container').select('Price (low to high)')
-		//cy.get('#item_2_title_link').should('contain', 'Sauce Labs Onesie')
 		
-		//cy.get('inventory_item_name').should('contain', 'Sauce Labs Onesie')
+		
 		cy.get(':nth-child(1) > .inventory_item_label').should('contain', 'Sauce Labs Onesie')
 		cy.get(':nth-child(1) > .pricebar > .inventory_item_price').should('have.text', '$7.99')
 
