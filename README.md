@@ -1,5 +1,5 @@
 # Cypress-basic
-## Testes de site de e-commerce utilizando Cypress no site saucedemo
+## Testes de um site de e-commerce utilizando Cypress no site saucedemo
 ### Cenários de Testes
 - Login com Sucesso
 - Login com usuário inválido
